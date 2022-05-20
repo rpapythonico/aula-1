@@ -1,16 +1,21 @@
 # Introdução, Variáveis, Tipagem, Condicionais e Comentários
 
-- Demos > [demo_execucao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Demos/demo_execucao.py)
+## Demos
 
-Demonstração de erro no Python
-- Demos > [demo_google.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Demos/demo_google.py)
+- [demo_execucao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Demos/demo_execucao.py)
 
-Demonstração do Selenium executando uma interação web
+    - Demonstração de erro no Python
+    
+- [demo_google.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Demos/demo_google.py)
 
-- Exercicios > [calculadora_imc.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Exercicios/calculadora_imc.py)
+    - Demonstração do Selenium executando uma interação web
 
-Script que efetua cálculo de IMC
+## Exercícios
 
-- Exercicios > [demo_google.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Exercicios/validador_eleicao.py)
+- [calculadora_imc.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Exercicios/calculadora_imc.py)
 
-Script que valida a obrigatoriedade das eleições de acordo com a idade
+    - Script que efetua cálculo de IMC
+
+- [demo_google.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Exercicios/validador_eleicao.py)
+
+    - Script que valida a obrigatoriedade das eleições de acordo com a idade
